@@ -1,2 +1,1 @@
-print ("I'm the master")
-
+print "Im the master"
